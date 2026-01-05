@@ -13,4 +13,4 @@ Please enter the Number of bonds (ionic or covalent) here: 2
 
 
 # Validation Data PDF
-This PDF includes All tables used in "Armstrong’s Exclusion-Zone SASA Formula and Model (version 7)" (available on chemrxiv) and these files are also available on OSF: https://doi.org/10.17605/OSF.IO/QGPJ7
+This PDF includes all tables used in "Armstrong’s Exclusion-Zone SASA Formula and Model (version 7)" (available on chemrxiv), these files are also available on OSF: https://doi.org/10.17605/OSF.IO/QGPJ7
