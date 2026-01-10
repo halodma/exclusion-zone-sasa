@@ -5,6 +5,9 @@ A basic Python script implementing Armstrong's Exclusion-Zone SASA formula.
 
 This program calculates the Solvent Accessible Surface Area (SASA) of molecules, with a correction based on average bond length and atomic radii.
 
+# Original Paper Available on Chemrxiv:
+https://doi.org/10.26434/chemrxiv-2025-jtx55-v7
+
 # Example Usage
 Please enter your molecule here: H2O
 Enter probe radius (e.g., 1.4 for water): 1.4
